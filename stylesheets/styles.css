@@ -1,0 +1,41 @@
+h1 {
+  color: pink;
+  text-align: center;
+  
+}
+
+.main-img {
+  border-radius: 50%;
+  width: 20%;
+  height: auto;
+  display: block;
+  margin: auto;
+}
+
+.header {
+  margin-top: 80px;
+}
+
+.nav ul li {
+  list-style: none;
+  display: inline-block;
+}
+
+.bio {
+  padding: 2%;
+  background-color: snow;
+  margin: 20px;
+}
+
+a:link {
+  text-decoration: none;
+  color: inherit;
+}
+
+#projects a {
+  color: #f5a6b3;
+}
+
+h6 {
+  color: #f5a6b3;
+}
